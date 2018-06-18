@@ -13,4 +13,7 @@ Here are the steps:
       - Update npm: ```npm update```
       - Update node: install nvm (node version manager): ```nvm install node --reinstall-packages-from=node```
       - If _nvm_ does not work, may need run ```command -v nvm```, and then reopen the terminal. Then ```nvm install node```, to check the version, use ```nvm run node --version```.
+
+* 2. Sign up an account on live.weku.io
+
       
